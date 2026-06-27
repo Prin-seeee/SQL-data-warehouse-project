@@ -32,3 +32,35 @@ This project involves:
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+---
+
+## 🚀 Project Requirements
+
+### Building the Data Warehouse (Data Engineering)
+
+#### Objective
+
+Develop a modern data warehouse using **PostgreSQL** to consolidate sales data and enable analytical reporting and data-driven decision-making.
+
+#### Specifications
+
+* **Data Sources**: Imported data from two source systems (ERP and CRM) provided as CSV files.
+* **Data Quality**: Cleaned and resolved data quality issues before analysis.
+* **Integration**: Combined both data sources into a single, user-friendly data model optimized for analytical queries.
+* **Scope**: Focused on the latest available dataset; historization of data was not implemented.
+* **Documentation**: Documented the data model to support both business users and analytics teams.
+
+---
+
+### 📊 Analytics & Reporting (Data Analysis)
+
+#### Objective
+
+Develop SQL-based analytics in **PostgreSQL** to generate detailed insights into:
+
+* **Customer Behavior**
+* **Product Performance**
+* **Sales Trends**
+
+These insights provide key business metrics that support informed and strategic decision-making.
+
