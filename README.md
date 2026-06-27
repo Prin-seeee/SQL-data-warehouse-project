@@ -63,4 +63,8 @@ Develop SQL-based analytics in **PostgreSQL** to generate detailed insights into
 * **Sales Trends**
 
 These insights provide key business metrics that support informed and strategic decision-making.
+---
 
+## 📝 License
+
+This project is licensed under the **MIT License**.
